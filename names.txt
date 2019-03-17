@@ -2,5 +2,7 @@
 names file created on a feature branch
 
 add bob  - master (ubuntu)
+add jon -  - branch 2
+add smith - branch 2
 
 
